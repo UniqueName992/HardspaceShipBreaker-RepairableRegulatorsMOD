@@ -1,0 +1,5 @@
+bin/
+obj/
+/tooltip-example.png
+/Screenshot *.png
+/UI.png
